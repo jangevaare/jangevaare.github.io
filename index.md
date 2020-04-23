@@ -1,4 +1,4 @@
-<h1>About me<h1>
+<h2>About me</h2>
 <p>I am a PhD candidate in the Department of Mathematics and Statistics at the University of Guelph.</p>
 <p>In my research I navigate the computational challenges in the statistical modelling of complex population processes. Applications in population ecology such as wildlife management and the dynamics of infectious diseases are of particular interest to me. This typically involves me in the study of scientific computing, topics in Bayesian inference, and data visualization.</p>
 <details><summary>Articles</summary>
