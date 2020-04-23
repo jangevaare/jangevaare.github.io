@@ -4,33 +4,35 @@ My name is Justin Angevaare. I am a PhD candidate in the Department of Mathemati
 In my research I seek to navigate the computational challenges in the statistical modelling of complex population processes. Applications in population ecology such as wildlife management and the dynamics of infectious diseases are of particular interest to me. This typically involves me in the study of scientific computing, topics in Bayesian inference, and data visualization.
 
 ## Submitted and published articles
-**Angevaare, J.**, Feng, Z. and Deardon, R. (2020) “Infectious disease transmission network modelling with the Julia language” submitted to the Journal of Statistical Software [In Review]
+**Angevaare, J.**, Feng, Z. and Deardon, R. (2020) Infectious disease transmission network modelling with the Julia language. Submitted to the Journal of Statistical Software [In Review]
 
-**Angevaare, J.**, Feng, Z. and Deardon, R. (2020) “Inference of latent event times and transmission networks in individual level infectious disease models” submitted to Spatial and Spatiotemporal Epidemiology [In Review]
+**Angevaare, J.**, Feng, Z. and Deardon, R. (2020) Inference of latent event times and transmission networks in individual level infectious disease models. Submitted to Spatial and Spatiotemporal Epidemiology [In Review]
 
 ## Proceedings
 Rose, D., Edwards, B., Kett, R., Gillis, D., and **Angevaare, J.** (2017) Exploring Anthropogenic Activities and Management Decisions Using a Novel Environmental Agent Based Model. IEEE International Humanitarian Technology Conference, Toronto, ON
 
 ## Presentations
-**Angevaare, J.***, Feng, Z., Deardon, R. (2017) Simulation and inference of phylodynamic individual level models. Epidemics 6 International Conference on Infectious Disease Dynamics. Sitges, Spain (contributed oral presentation)
+**Angevaare, J<sup>✦</sup>**, Feng, Z., Deardon, R. (2017) Simulation and inference of phylodynamic individual level models. Epidemics 6 International Conference on Infectious Disease Dynamics. Sitges, Spain (contributed oral presentation)
 
-**Angevaare, J.***, Feng, Z., Deardon, R. (2016) Phylodynamic individual level models: strategies for simulation and inference. Southwestern Ontario Graduate Mathematics and Statistics Conference, Guelph, ON (contributed poster presentation)
+**Angevaare, J.<sup>✦</sup>**, Feng, Z., Deardon, R. (2016) Phylodynamic individual level models: strategies for simulation and inference. Southwestern Ontario Graduate Mathematics and Statistics Conference, Guelph, ON (contributed poster presentation)
 
-**Angevaare, J.***, Feng, Z., Deardon, R. (2016) Phylodynamic individual level models: strategies for simulation and inference. Joint Statistical Meetings, Chicago, IL (contributed poster presentation)
+**Angevaare, J.<sup>✦</sup>**, Feng, Z., Deardon, R. (2016) Phylodynamic individual level models: strategies for simulation and inference. Joint Statistical Meetings, Chicago, IL (contributed poster presentation)
 
-**Angevaare, J.***, Feng, Z., Deardon, R. (2016) Phylodynamic individual level models: strategies for simulation and inference. Annual Meeting of the Statistical Society of Canada, Brock University, St. Catharines, ON (contributed poster presentation)
+**Angevaare, J.<sup>✦</sup>**, Feng, Z., Deardon, R. (2016) Phylodynamic individual level models: strategies for simulation and inference. Annual Meeting of the Statistical Society of Canada, Brock University, St. Catharines, ON (contributed poster presentation)
 
-**Angevaare, J.***, Feng, Z., Deardon, R. (2016) A Phylodynamic extension to individual level models. Canadian Association of Veterinary Epidemiology and Preventive Medicine Conference, University of Guelph, Guelph, ON (contributed poster presentation)
+**Angevaare, J.<sup>✦</sup>**, Feng, Z., Deardon, R. (2016) A Phylodynamic extension to individual level models. Canadian Association of Veterinary Epidemiology and Preventive Medicine Conference, University of Guelph, Guelph, ON (contributed poster presentation)
 
-Rose, D.*, Kett, R., Yodzis, M., **Angevaare, J.**, Gillis, D. (2015) A combined agent and stage structured model to investigate anthropogenic activities on a wild fish population. College of Physical and Engineering Science Undergraduate Poster Session, University of Guelph, Guelph, ON (contributed poster presentation)
+Rose, D.<sup>✦</sup>, Kett, R., Yodzis, M., **Angevaare, J.**, Gillis, D. (2015) A combined agent and stage structured model to investigate anthropogenic activities on a wild fish population. College of Physical and Engineering Science Undergraduate Poster Session, University of Guelph, Guelph, ON (contributed poster presentation)
 
-**Angevaare, J.*** (2014) Fitting disease models with likelihoods. Community of Interest in Disease Modelling, University of Guelph, Guelph, ON (oral presentation)
+**Angevaare, J.<sup>✦</sup>** (2014) Fitting disease models with likelihoods. Community of Interest in Disease Modelling, University of Guelph, Guelph, ON (oral presentation)
 
-**Angevaare, J.***, Gillis, D., Darlington, G. (2014) Efficient Bayesian Inference for Conditionally Autoregressive Models. Annual Meeting of the Statistical Society of Canada, University of Toronto, Toronto, ON (contributed poster presentation) 
+**Angevaare, J.<sup>✦</sup>**, Gillis, D., Darlington, G. (2014) Efficient Bayesian Inference for Conditionally Autoregressive Models. Annual Meeting of the Statistical Society of Canada, University of Toronto, Toronto, ON (contributed poster presentation) 
 
-**Angevaare, J.***, Gillis, D. (2012). The Utility of Catch Per Unit Effort Variance. Annual Meeting of the Statistical Society of Canada, University of Guelph, Guelph, ON (contributed poster presentation) 
+**Angevaare, J.<sup>✦</sup>**, Gillis, D. (2012). The Utility of Catch Per Unit Effort Variance. Annual Meeting of the Statistical Society of Canada, University of Guelph, Guelph, ON (contributed poster presentation) 
 
-Gillis, D.*, **Angevaare, J.** (2012). Something’s Fishy. Colloquium Joint BIOM&S Seminar Series, University of Guelph, Guelph, ON (invited presentation)
+Gillis, D.<sup>✦</sup>, **Angevaare, J.** (2012). Something’s Fishy. Colloquium Joint BIOM&S Seminar Series, University of Guelph, Guelph, ON (invited presentation)
+
+<sup>✦</sup><small>presenting author</small>
 
 ## Theses
 **Angevaare, J.** (2014) Efficient Bayesian Inference for Conditionally Autoregressive Models. Department of Mathematics and Statistics, University of Guelph, Guelph, ON. Thesis. April 2014. 122 pp.
