@@ -3,8 +3,7 @@ My name is Justin Angevaare. I am a PhD candidate in the Department of Mathemati
 
 In my research I seek to navigate the computational challenges in the statistical modelling of complex population processes. Applications in population ecology such as wildlife management and the dynamics of infectious diseases are of particular interest to me. This typically involves me in the study of scientific computing, topics in Bayesian inference, and data visualization.
 
-# Projects
-## Current
+## Current Projects
 ### Pathogen.jl (2015-present)
 [Pathogen.jl](https://github.com/jangevaare/Pathogen.jl) is an implementation of some of my PhD research into transmission network individual level models of infectious disease, and [phylodynamic](https://en.wikipedia.org/wiki/Viral_phylodynamics) models. It seeks to provide accessible tools for the simulation, description, visualization, and Bayesian inference of such models. Imputation of event times using data augmentation 
 
@@ -24,7 +23,7 @@ In my research I seek to navigate the computational challenges in the statistica
 ### PhyloModels.jl (2016-2020)
 [PhyloModels.jl](https://github.com/jangevaare/PhyloModels.jl) builds on my work with [GeneticBitArrays.jl](https://github.com/jangevaare/GeneticBitArrays.jl), [PhyloTrees.jl](https://github.com/jangevaare/PhyloTrees.jl), [SubstitutionModels.jl](https://github.com/BioJulia/SubstitutionModels.jl). It implements [Felsenstein's Pruning Algorithm](https://doi.org/10.1093%2Fsysbio%2F22.3.240) for loglikelihood calculation of phylogenetic trees with aligned genetic sequences, at their tips. A `Dict` with `Int64` node IDs as keys and `GeneticSeq` as values is used for input for the loglikelihood calculation, as well as the output from simulation of genetic sequences.
 
-## Past
+## Past Projects
 ### FishABM.jl (2014-2015)
 [FishABM.jl](https://github.com/jangevaare/FishABM.jl) is an implementation of a lifecycle model that has applications for fisheries management. An age-structured model is used for adults, with options for commercial or recreational harvest. A highly detailed agent based model are used from egg through to juvenilles life stages, grouping individuals from the same brood into an single agent. Movement and various sources of mortality (habitat specific), and the eventual impact on assumptions surrounding movement and mortality on the health of the fishery can be tracked.
 
@@ -37,7 +36,7 @@ In my research I seek to navigate the computational challenges in the statistica
 ### ILMPythonTools (2014)
 [ILMPythonTools](https://github.com/jangevaare/ilmpythontools) was an early python implementation of tools for individual level models of infectious disease. This work was stopped in favour of developing such tools instead in [Julia](https://julialang.org).
 
-## Just for fun
+## Just for fun projects
 ### brew2 (2018-present)
 brew2 is an app built in [Node-RED](https://nodered.org) for brewery control using [Raspberry Pi](https://www.raspberrypi.org). It implements sophisticated PID algorithms for mash temperature control using various recirculating mash systems. It's more custom features are written in javascript. Logging uses [influxdb](https://www.influxdata.com) time series database.
 
@@ -50,3 +49,12 @@ I have developed several popular plugins for [CraftBeerPi3](http://web.craftbeer
 * [OneWireAdvanced](https://github.com/jangevaare/cbpi-OneWireAdvanced)
 * [OnAtStartup](https://github.com/jangevaare/cbpi-OnAtStartup)
 
+### HopScrape (2018)
+[This project](https://github.com/jangevaare/HopScrape) incorporated scraping, and imputation of hop data using [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/), [pandas](https://pandas.pydata.org), and [fancyimpute](https://pypi.org/project/fancyimpute/). The cleaned and imputed data resulting from this project are available on the repo.
+
+### TriangleDash (2018)
+[TriangleDash](https://github.com/jangevaare/triangledash) is a small application I made to learn [Plotly's Dash](https://plotly.com/dash/). It is an explanation, calculation, and visualization of results from triangle test sensory analysis. It's deployed and can be used here: https://triangledash.herokuapp.com
+
+### Homebrewing PCBs (2018-Current)
+I learned a bit about PCB design and electronics, then created a couple board designs for homebrewing applications and open-sourced them. The source files can be found in [this repository](https://github.com/jangevaare/Homebrewing-PCBs). They can also be purchased from PCBS.io and PCBWay.com (links on repo). 100s of these boards have now been produced.
+![ESP8266 board](https://file.pcbway.com/websponsor/18/09/20/102643656_Top.png)
