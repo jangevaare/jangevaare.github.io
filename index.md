@@ -52,7 +52,7 @@ Gillis, D., **Angevaare, J.**, Rueffer, M., Horrocks, J. (2012). Analysis of Tot
 ### Pathogen.jl (2015-present)
 [Pathogen.jl](https://github.com/jangevaare/Pathogen.jl) is an implementation of some of my PhD research into transmission network individual level models of infectious disease, and [phylodynamic](https://en.wikipedia.org/wiki/Viral_phylodynamics) models. It seeks to provide accessible tools for the simulation, description, visualization, and Bayesian inference of such models. Imputation of event times using data augmentation 
 
-![Epidemic curve](https://github.com/jangevaare/Pathogen.jl/raw/master/examples/SIR%20Simulation/epiplot.png)
+<img src="https://github.com/jangevaare/Pathogen.jl/raw/master/examples/SIR%20Simulation/epiplot.png" width="500">
 
 ### SubstitutionModels.jl (2017-present)
 [SubstitutionModels.jl](https://github.com/BioJulia/SubstitutionModels.jl) is a package that I've contributed to the [BioJulia organization](https://biojulia.net/Bio.jl/). At this time, it provides performant utilities for dealing with nucleic acid substitution models using [StaticArrays.jl](https://github.com/JuliaArrays/StaticArrays.jl) and Julia's [multiple dispatch](https://docs.julialang.org/en/v1/manual/methods/). These models are used for genetic distance calculations, phylogenetic tree construction, genetic sequence simulation, etc.
@@ -60,7 +60,7 @@ Gillis, D., **Angevaare, J.**, Rueffer, M., Horrocks, J. (2012). Analysis of Tot
 ### PhyloTrees.jl (2016-present)
 [PhyloTrees.jl](https://github.com/jangevaare/PhyloTrees.jl) is a basic representation of rooted phylogenetic trees in Julia. My eventual goal is to implement Bayesian phylogenetic tree inference using MCMC in Julia, using this package. For the time being it has been used in the implementation of phylodynamic models as part of my PhD research.
 
-![Tree Plot](https://raw.githubusercontent.com/jangevaare/PhyloTrees.jl/master/treeplot.png)
+<img src="https://raw.githubusercontent.com/jangevaare/PhyloTrees.jl/master/treeplot.png" width="500">
 
 ### GeneticBitArrays.jl (2019-present)
 [GeneticBitArrays.jl](https://github.com/jangevaare/GeneticBitArrays.jl) uses [Julia's `BitArray`s](https://docs.julialang.org/en/v1/base/arrays/#Base.BitArray) to represent RNA and DNA sequences. This representation is space efficient and highly interpretable. Also, promotion in Julia, makes for succinct usage of `GeneticBitArrays` with linear algebra - such as may be used for phylogenetic inference, and simulation of genetic sequences.
@@ -85,7 +85,7 @@ Gillis, D., **Angevaare, J.**, Rueffer, M., Horrocks, J. (2012). Analysis of Tot
 ### brew2 (2018-present)
 brew2 is an app built in [Node-RED](https://nodered.org) for brewery control using [Raspberry Pi](https://www.raspberrypi.org). It implements sophisticated PID algorithms for mash temperature control using various recirculating mash systems. It's more custom features are written in javascript. Logging uses [influxdb](https://www.influxdata.com) time series database.
 
-![brew2 main](https://github.com/jangevaare/brew2/raw/master/main.png)
+<img src="https://github.com/jangevaare/brew2/raw/master/main.png" width="500">
 
 ### Various CraftBeerPi3 plugins (2017-2019)
 I have developed several popular plugins for [CraftBeerPi3](http://web.craftbeerpi.com) brewery control software in python:
@@ -102,4 +102,5 @@ I have developed several popular plugins for [CraftBeerPi3](http://web.craftbeer
 
 ### Homebrewing PCBs (2018-Current)
 I learned a bit about PCB design and electronics, then created a couple board designs for homebrewing applications and open-sourced them. The source files can be found in [this repository](https://github.com/jangevaare/Homebrewing-PCBs). They can also be purchased from PCBS.io and PCBWay.com (links on repo). 100s of these boards have now been produced.
-![ESP8266 board](https://file.pcbway.com/websponsor/18/09/20/102643656_Top.png)
+
+<img src="https://file.pcbway.com/websponsor/18/09/20/102643656_Top.png" width="250">
