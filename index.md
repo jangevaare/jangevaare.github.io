@@ -2,8 +2,7 @@
 <p>I am a PhD candidate in the Department of Mathematics and Statistics at the University of Guelph.</p>
 <p>In my research I navigate the computational challenges in the statistical modelling of complex population processes. Applications in population ecology such as wildlife management and the dynamics of infectious diseases are of particular interest to me. This typically involves me in the study of scientific computing, topics in Bayesian inference, and data visualization.</p>
 <details><summary>Articles</summary>
-<p>
-<i>Preprints</i>
+<p><i>Preprints</i>
 <ul><li><b>Angevaare, J.</b>, Feng, Z. and Deardon, R. (2020) Infectious disease transmission network modelling with the Julia language. arXiv:<a href="https://arxiv.org/abs/2002.05850">2002.05850</a></li></ul>
 
 <i>Submitted</i>
@@ -57,22 +56,18 @@
 <i>Pathogen.jl (2015-present)</i>
 <p><a href="https://github.com/jangevaare/Pathogen.jl">Pathogen.jl</a> is an implementation of some of my PhD research into transmission network individual level models of infectious disease, and <a href="https://en.wikipedia.org/wiki/Viral_phylodynamics">phylodynamic</a> models. It seeks to provide accessible tools for the simulation, description, visualization, and Bayesian inference of such models. Imputation of event times using data augmentation 
 
-<img src="https://github.com/jangevaare/Pathogen.jl/raw/master/examples/SIR%20Simulation/epiplot.png" width="500">
-</p>
+<img src="https://github.com/jangevaare/Pathogen.jl/raw/master/examples/SIR%20Simulation/epiplot.png" width="500"></p>
 <i>SubstitutionModels.jl (2017-present)</i>
-<p><a href="https://github.com/BioJulia/SubstitutionModels.jl">SubstitutionModels.jl</a> is a package that I&#39;ve contributed to the <a href="https://biojulia.net/Bio.jl/">BioJulia organization</a>. At this time, it provides performant utilities for dealing with nucleic acid substitution models using <a href="https://github.com/JuliaArrays/StaticArrays.jl">StaticArrays.jl</a> and Julia&#39;s <a href="https://docs.julialang.org/en/v1/manual/methods/">multiple dispatch</a>. These models are used for genetic distance calculations, phylogenetic tree construction, genetic sequence simulation, etc.
-</p>
+<p><a href="https://github.com/BioJulia/SubstitutionModels.jl">SubstitutionModels.jl</a> is a package that I&#39;ve contributed to the <a href="https://biojulia.net/Bio.jl/">BioJulia organization</a>. At this time, it provides performant utilities for dealing with nucleic acid substitution models using <a href="https://github.com/JuliaArrays/StaticArrays.jl">StaticArrays.jl</a> and Julia&#39;s <a href="https://docs.julialang.org/en/v1/manual/methods/">multiple dispatch</a>. These models are used for genetic distance calculations, phylogenetic tree construction, genetic sequence simulation, etc.</p>
 <i>PhyloTrees.jl (2016-present)</i>
 <p><a href="https://github.com/jangevaare/PhyloTrees.jl">PhyloTrees.jl</a> is a basic representation of rooted phylogenetic trees in Julia. My eventual goal is to implement Bayesian phylogenetic tree inference using MCMC in Julia, using this package. For the time being it has been used in the implementation of phylodynamic models as part of my PhD research.
 
-<img src="https://raw.githubusercontent.com/jangevaare/PhyloTrees.jl/master/treeplot.png" width="500">
-</p>
+<img src="https://raw.githubusercontent.com/jangevaare/PhyloTrees.jl/master/treeplot.png" width="500"></p>
 <i>GeneticBitArrays.jl (2019-present)</i>
-<p><a href="https://github.com/jangevaare/GeneticBitArrays.jl">GeneticBitArrays.jl</a> uses <a href="https://docs.julialang.org/en/v1/base/arrays/#Base.BitArray">Julia&#39;s <code>BitArray</code>s</a> to represent RNA and DNA sequences. This representation is space efficient and highly interpretable. Also, promotion in Julia, makes for succinct usage of <code>GeneticBitArrays</code> with linear algebra - such as may be used for phylogenetic inference, and simulation of genetic sequences.
-</p>
+<p><a href="https://github.com/jangevaare/GeneticBitArrays.jl">GeneticBitArrays.jl</a> uses <a href="https://docs.julialang.org/en/v1/base/arrays/#Base.BitArray">Julia&#39;s <code>BitArray</code>s</a> to represent RNA and DNA sequences. This representation is space efficient and highly interpretable. Also, promotion in Julia, makes for succinct usage of <code>GeneticBitArrays</code> with linear algebra - such as may be used for phylogenetic inference, and simulation of genetic sequences.</p>
 <i>PhyloModels.jl (2016-2020)</i>
-<p><a href="https://github.com/jangevaare/PhyloModels.jl">PhyloModels.jl</a> builds on my work with <a href="https://github.com/jangevaare/GeneticBitArrays.jl">GeneticBitArrays.jl</a>, <a href="https://github.com/jangevaare/PhyloTrees.jl">PhyloTrees.jl</a>, <a href="https://github.com/BioJulia/SubstitutionModels.jl">SubstitutionModels.jl</a>. It implements <a href="https://doi.org/10.1093%2Fsysbio%2F22.3.240">Felsenstein&#39;s Pruning Algorithm</a> for loglikelihood calculation of phylogenetic trees with aligned genetic sequences, at their tips. A <code>Dict</code> with <code>Int64</code> node IDs as keys and <code>GeneticSeq</code> as values is used for input for the loglikelihood calculation, as well as the output from simulation of genetic sequences.
-</p></p></details>
+<p><a href="https://github.com/jangevaare/PhyloModels.jl">PhyloModels.jl</a> builds on my work with <a href="https://github.com/jangevaare/GeneticBitArrays.jl">GeneticBitArrays.jl</a>, <a href="https://github.com/jangevaare/PhyloTrees.jl">PhyloTrees.jl</a>, <a href="https://github.com/BioJulia/SubstitutionModels.jl">SubstitutionModels.jl</a>. It implements <a href="https://doi.org/10.1093%2Fsysbio%2F22.3.240">Felsenstein&#39;s Pruning Algorithm</a> for loglikelihood calculation of phylogenetic trees with aligned genetic sequences, at their tips. A <code>Dict</code> with <code>Int64</code> node IDs as keys and <code>GeneticSeq</code> as values is used for input for the loglikelihood calculation, as well as the output from simulation of genetic sequences.</p>
+</p></details>
 
 <details><summary>Previous software projects</summary>
 <i>FishABM.jl (2014-2015)</i>
@@ -94,21 +89,20 @@
 <br>
 <img src="https://github.com/jangevaare/brew2/raw/master/main.png" width="500">
 </p>
-<b>Various CraftBeerPi3 plugins (2017-2019)</b>
+<i>Various CraftBeerPi3 plugins (2017-2019)</i>
 <p>I have developed several popular plugins for <a href="http://web.craftbeerpi.com">CraftBeerPi3</a> brewery control software in python:
 <ul><li><a href="https://github.com/jangevaare/cbpi-CascadeControl">CascadeControl</a></li>
 <li><a href="https://github.com/jangevaare/cbpi-DependentActor">DependentActor</a></li>
 <li><a href="https://github.com/jangevaare/cbpi-OneWireAdvanced">OneWireAdvanced</a></li>
-<li><a href="https://github.com/jangevaare/cbpi-OnAtStartup">OnAtStartup</a></li></ul>
-</p>
-<b>HopScrape (2018)</b>
+<li><a href="https://github.com/jangevaare/cbpi-OnAtStartup">OnAtStartup</a></li></ul></p>
+<i>HopScrape (2018)</i>
 <p><a href="https://github.com/jangevaare/HopScrape">This project</a> incorporated scraping, and imputation of hop data using <a href="https://www.crummy.com/software/BeautifulSoup/">BeautifulSoup</a>, <a href="https://pandas.pydata.org">pandas</a>, and <a href="https://pypi.org/project/fancyimpute/">fancyimpute</a>. The cleaned and imputed data resulting from this project are available on the repo.
 </p>
-<b>TriangleDash (2018)</b>
+<i>TriangleDash (2018)</i>
 <p><a href="https://github.com/jangevaare/triangledash">TriangleDash</a> is a small application I made to learn <a href="https://plotly.com/dash/">Plotly&#39;s Dash</a>. It is an explanation, calculation, and visualization of results from triangle test sensory analysis. It&#39;s deployed and can be used here: <a href="https://triangledash.herokuapp.com">https://triangledash.herokuapp.com</a>
 </p>
-<b>Homebrewing PCBs (2018-Current)</b>
+<i>Homebrewing PCBs (2018-Current)</i>
 <p>I learned a bit about PCB design and electronics, then created a couple board designs for homebrewing applications and open-sourced them. The source files can be found in <a href="https://github.com/jangevaare/Homebrewing-PCBs">this repository</a>. They can also be purchased from PCBS.io and PCBWay.com (links on repo). 100s of these boards have now been produced.
 <br>
-<img src="https://file.pcbway.com/websponsor/18/09/20/102643656_Top.png" width="250">
-</p></p></details>
+<img src="https://file.pcbway.com/websponsor/18/09/20/102643656_Top.png" width="250"></p>
+</p></details>
