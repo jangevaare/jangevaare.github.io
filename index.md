@@ -1,6 +1,6 @@
 <h2>About me</h2>
 <p>I am a PhD candidate in the Department of Mathematics and Statistics at the University of Guelph. I am advised by <a href="https://zfeng.uoguelph.ca">Prof. Zeny Feng</a> and <a href="http://people.ucalgary.ca/~robert.deardon/">Prof. Rob Deardon</a>.</p>
-<p>In my research I navigate the computational challenges in the statistical modelling of complex population processes. Applications in population ecology such as wildlife management and the dynamics of infectious diseases are of particular interest to me. This typically involves me in the study of scientific computing, topics in Bayesian inference, and data visualization.</p>
+<p>In my research I navigate the computational challenges in the statistical modelling of complex population processes. Applications in population ecology such as wildlife management and the dynamics of infectious diseases are of particular interest to me. This involves me in computational statistics, topics in Bayesian inference, and data visualization.</p>
 
 <details><summary>Current software projects</summary>
 <i>Pathogen.jl (2015-present)</i>
@@ -53,7 +53,7 @@
 <details><summary>Theses</summary>
 <p>
 <ul>
-<li><b>Angevaare, J.</b> (2014) Efficient Bayesian Inference for Conditionally Autoregressive Models. Department of Mathematics and Statistics, University of Guelph, Guelph, ON. Thesis. April 2014. 122 pp. Advisors: Dr. Daniel Gillis, Dr. Gerarda Darlington
+<li><b>Angevaare, J.</b> (2014) Efficient Bayesian Inference for Conditionally Autoregressive Models. Department of Mathematics and Statistics, University of Guelph, Guelph, ON. Thesis. April 2014. 122 pp. Advisors: <a href="https://danielgillis.wordpress.com">Prof. Daniel Gillis</a>, <a href="https://mathstat.uoguelph.ca/people/darlington">Prof. Gerarda Darlington</a>.
 </li></ul>
 </p></details>
 
