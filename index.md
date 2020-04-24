@@ -1,6 +1,6 @@
 <h2>About me</h2>
 <p>I am a PhD candidate in the Department of Mathematics and Statistics at the University of Guelph. I am advised by <a href="https://zfeng.uoguelph.ca">Prof. Zeny Feng</a> and <a href="http://people.ucalgary.ca/~robert.deardon/">Prof. Rob Deardon</a>.</p>
-<p>In my research I navigate the computational challenges in the statistical modelling of complex population processes. Applications in population ecology such as wildlife management and the dynamics of infectious diseases are of particular interest to me. This involves me in computational statistics, topics in Bayesian inference, and data visualization.</p>
+<p>In my research I navigate the computational challenges in the statistical modelling of complex population processes. Applications in population ecology such as wildlife management and the dynamics of infectious diseases are of particular interest to me. This involves me in the study of topics in Bayesian inference, computational statistics, and data visualization.</p>
 
 <details><summary>Current software projects</summary>
 <i>Pathogen.jl (2015-present)</i>
