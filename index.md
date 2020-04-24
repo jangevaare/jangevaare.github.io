@@ -1,5 +1,5 @@
 <h2>About me</h2>
-<p>I am a PhD candidate in the Department of Mathematics and Statistics at the University of Guelph.</p>
+<p>I am a PhD candidate in the Department of Mathematics and Statistics at the University of Guelph. I am advised by <a href="https://zfeng.uoguelph.ca">Prof. Zeny Feng</a> and <a href="http://people.ucalgary.ca/~robert.deardon/">Prof. Rob Deardon (University of Calgary)</a>.</p>
 <p>In my research I navigate the computational challenges in the statistical modelling of complex population processes. Applications in population ecology such as wildlife management and the dynamics of infectious diseases are of particular interest to me. This typically involves me in the study of scientific computing, topics in Bayesian inference, and data visualization.</p>
 <details><summary>Articles</summary>
 <p><i>Preprints</i>
@@ -49,7 +49,7 @@
 
 <li>Gillis, D., <b>Angevaare, J.</b>, Rueffer, M., Horrocks, J. (2012). Analysis of Total Allowable Catch. Technical document. October 2012. 34 pp.</li>
 
-<b>Angevaare, J.</b> (2012) Lake Huron Lake Whitefish Life History Parameters. Technical document. September 2012. 106 pp. (including appendices)</li>
+<li><b>Angevaare, J.</b> (2012) Lake Huron Lake Whitefish Life History Parameters. Technical document. September 2012. 106 pp. (including appendices)</li>
 </ul></p></details>
 
 <details><summary>Current software projects</summary>
@@ -66,8 +66,9 @@
 <i>GeneticBitArrays.jl (2019-present)</i>
 <p><a href="https://github.com/jangevaare/GeneticBitArrays.jl">GeneticBitArrays.jl</a> uses <a href="https://docs.julialang.org/en/v1/base/arrays/#Base.BitArray">Julia&#39;s <code>BitArray</code>s</a> to represent RNA and DNA sequences. This representation is space efficient and highly interpretable. Also, promotion in Julia, makes for succinct usage of <code>GeneticBitArrays</code> with linear algebra - such as may be used for phylogenetic inference, and simulation of genetic sequences.</p>
 <i>PhyloModels.jl (2016-2020)</i>
-<p><a href="https://github.com/jangevaare/PhyloModels.jl">PhyloModels.jl</a> builds on my work with <a href="https://github.com/jangevaare/GeneticBitArrays.jl">GeneticBitArrays.jl</a>, <a href="https://github.com/jangevaare/PhyloTrees.jl">PhyloTrees.jl</a>, <a href="https://github.com/BioJulia/SubstitutionModels.jl">SubstitutionModels.jl</a>. It implements <a href="https://doi.org/10.1093%2Fsysbio%2F22.3.240">Felsenstein&#39;s Pruning Algorithm</a> for loglikelihood calculation of phylogenetic trees with aligned genetic sequences, at their tips. A <code>Dict</code> with <code>Int64</code> node IDs as keys and <code>GeneticSeq</code> as values is used for input for the loglikelihood calculation, as well as the output from simulation of genetic sequences.</p>
-</p></details>
+<p><a href="https://github.com/jangevaare/PhyloModels.jl">PhyloModels.jl</a> builds on my work with <a href="https://github.com/jangevaare/GeneticBitArrays.jl">GeneticBitArrays.jl</a>, <a href="https://github.com/jangevaare/PhyloTrees.jl">PhyloTrees.jl</a>, <a href="https://github.com/BioJulia/SubstitutionModels.jl">SubstitutionModels.jl</a>. It implements <a href="https://doi.org/10.1093%2Fsysbio%2F22.3.240">Felsenstein&#39;s Pruning Algorithm</a> for loglikelihood calculation of phylogenetic trees with aligned genetic sequences, at their tips. A <code>Dict</code> with <code>Int64</code> node IDs as keys and <code>GeneticSeq</code> as values is used for input for the loglikelihood calculation, as well as the output from simulation of genetic sequences.
+</p>
+</details>
 
 <details><summary>Previous software projects</summary>
 <i>FishABM.jl (2014-2015)</i>
@@ -81,7 +82,8 @@
 </p>
 <i>ILMPythonTools (2014)</i>
 <p><a href="https://github.com/jangevaare/ilmpythontools">ILMPythonTools</a> was an early python implementation of tools for individual level models of infectious disease. This work was stopped in favour of developing such tools instead in <a href="https://julialang.org">Julia</a>.
-</p></p></details>
+</p>
+</details>
 
 <details><summary>Just for fun</summary>
 <i>brew2 (2018-present)</i>
@@ -104,5 +106,5 @@
 <i>Homebrewing PCBs (2018-Current)</i>
 <p>I learned a bit about PCB design and electronics, then created a couple board designs for homebrewing applications and open-sourced them. The source files can be found in <a href="https://github.com/jangevaare/Homebrewing-PCBs">this repository</a>. They can also be purchased from PCBS.io and PCBWay.com (links on repo). 100s of these boards have now been produced.
 <br>
-<img src="https://file.pcbway.com/websponsor/18/09/20/102643656_Top.png" width="250"></p>
+<img src="https://file.pcbway.com/websponsor/18/09/20/102643656_Top.png" width="250">
 </p></details>
