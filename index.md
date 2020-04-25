@@ -88,7 +88,7 @@
 
 <details><summary>Just for fun</summary>
 <i>brew2 (2018-present)</i>
-<p>brew2 is an app built in <a href="https://nodered.org">Node-RED</a> for brewery control using <a href="https://www.raspberrypi.org">Raspberry Pi</a>. It implements sophisticated PID algorithms for mash temperature control using various recirculating mash systems. It&#39;s more custom features are written in javascript. Logging uses <a href="https://www.influxdata.com">influxdb</a> time series database. I have a couple posts on my brewing blog about these <a href="https://onbrewing.com/brewing-with-node-red-pt-1/">here</a>, and <a href="https://onbrewing.com/brewing-with-node-red-pt-2-my-dashboard/">here</a>.
+<p>brew2 is an app built in <a href="https://nodered.org">Node-RED</a> for brewery control using <a href="https://www.raspberrypi.org">Raspberry Pi</a>. It implements sophisticated PID algorithms for mash temperature control using various recirculating mash systems. Its more custom features are written in javascript. Logging uses <a href="https://www.influxdata.com">influxdb</a> time series database. I have a couple posts on my brewing blog related to this work <a href="https://onbrewing.com/brewing-with-node-red-pt-1/">here</a>, and <a href="https://onbrewing.com/brewing-with-node-red-pt-2-my-dashboard/">here</a>.
 <br>
 <img src="https://github.com/jangevaare/brew2/raw/master/main.png" width="500">
 </p>
