@@ -53,7 +53,7 @@
 <details><summary>Theses</summary>
 <p>
 <ul>
-<li><b>Angevaare, J.</b> (2014) Efficient Bayesian Inference for Conditionally Autoregressive Models. Department of Mathematics and Statistics, University of Guelph, Guelph, ON. Thesis. April 2014. 122 pp. Advisors: <a href="https://danielgillis.wordpress.com">Prof. Daniel Gillis</a>, <a href="https://mathstat.uoguelph.ca/people/darlington">Prof. Gerarda Darlington</a>.
+<li><b>Angevaare, J.</b> (2014) Efficient Bayesian Inference for Conditionally Autoregressive Models. Department of Mathematics and Statistics, University of Guelph, Guelph, ON. Master's Thesis. April 2014. 122 pp. Advisors: <a href="https://danielgillis.wordpress.com">Prof. Daniel Gillis</a>, <a href="https://mathstat.uoguelph.ca/people/darlington">Prof. Gerarda Darlington</a>.
 </li></ul>
 </p></details>
 
