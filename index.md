@@ -21,14 +21,17 @@
 </details>
 
 <details><summary>Articles</summary>
-<p><i>Preprints</i>
-<ul><li><b>Angevaare, J.</b>, Feng, Z. and Deardon, R. (2020) Infectious disease transmission network modelling with the Julia language. arXiv:<a href="https://arxiv.org/abs/2002.05850">2002.05850</a></li></ul>
+<i>Preprints</i>
+<ul>
+<li><b>Angevaare, J.</b>, Feng, Z. and Deardon, R. (2020) Infectious disease transmission network modelling with the Julia language. arXiv:<a href="https://arxiv.org/abs/2002.05850">2002.05850</a></li>
+</ul>
 
 <i>Submitted</i>
-<ul><il><b>Angevaare, J.</b>, Feng, Z. and Deardon, R. (2020) Infectious disease transmission network modelling with the Julia language. Submitted to the Journal of Statistical Software
-</il><li><b>Angevaare, J.</b>, Feng, Z. and Deardon, R. (2020) Inference of latent event times and transmission networks in individual level infectious disease models. Submitted to Spatial and Spatiotemporal Epidemiology</li>
+<ul>
+<li><b>Angevaare, J.</b>, Feng, Z. and Deardon, R. (2020) Infectious disease transmission network modelling with the Julia language. Submitted to the Journal of Statistical Software</li>
+<li><b>Angevaare, J.</b>, Feng, Z. and Deardon, R. (2020) Inference of latent event times and transmission networks in individual level infectious disease models. Submitted to Spatial and Spatiotemporal Epidemiology</li>
 </ul>
-</p></details>
+</details>
 
 <details><summary>Proceedings</summary>
 <p><ul><li>Rose, D., Edwards, B., Kett, R., Gillis, D., and <b>Angevaare, J.</b> (2017) Exploring Anthropogenic Activities and Management Decisions Using a Novel Environmental Agent Based Model. IEEE International Humanitarian Technology Conference, Toronto, ON
