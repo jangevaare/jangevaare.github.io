@@ -100,7 +100,7 @@
 <ul><li><a href="https://github.com/jangevaare/cbpi-CascadeControl">CascadeControl</a></li>
 <li><a href="https://github.com/jangevaare/cbpi-DependentActor">DependentActor</a></li>
 <li><a href="https://github.com/jangevaare/cbpi-OneWireAdvanced">OneWireAdvanced</a></li>
-<li><a href="https://github.com/jangevaare/cbpi-OnAtStartup">OnAtStartup</a></li></ul></p>
+<li><a href="https://github.com/jangevaare/cbpi-OnAtStartup">OnAtStartup</a></li></ul>
 I have a summary of these on my <a href="https://onbrewing.com/craftbeerpi-3-plugins/">brewing blog</a>.
 </p>
 <i>HopScrape (2018)</i>
