@@ -102,6 +102,7 @@
 <li><a href="https://github.com/jangevaare/cbpi-OneWireAdvanced">OneWireAdvanced</a></li>
 <li><a href="https://github.com/jangevaare/cbpi-OnAtStartup">OnAtStartup</a></li></ul></p>
 I have a summary of these on my <a href="https://onbrewing.com/craftbeerpi-3-plugins/">brewing blog</a>.
+</p>
 <i>HopScrape (2018)</i>
 <p><a href="https://github.com/jangevaare/HopScrape">This project</a> incorporated scraping, and imputation of hop data using <a href="https://www.crummy.com/software/BeautifulSoup/">BeautifulSoup</a>, <a href="https://pandas.pydata.org">pandas</a>, and <a href="https://pypi.org/project/fancyimpute/">fancyimpute</a>. The cleaned and imputed data resulting from this project are available on the repo.
 </p>
