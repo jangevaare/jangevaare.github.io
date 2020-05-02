@@ -10,7 +10,7 @@
 <i>SubstitutionModels.jl (2017-present)</i>
 <p><a href="https://github.com/BioJulia/SubstitutionModels.jl">SubstitutionModels.jl</a> is a package that I&#39;ve contributed to the <a href="https://biojulia.net/Bio.jl/">BioJulia organization</a>. At this time, it provides performant utilities for dealing with nucleic acid substitution models using <a href="https://github.com/JuliaArrays/StaticArrays.jl">StaticArrays.jl</a> and Julia&#39;s <a href="https://docs.julialang.org/en/v1/manual/methods/">multiple dispatch</a>. These models are used for genetic distance calculations, phylogenetic tree construction, genetic sequence simulation, etc.</p>
 <i>PhyloTrees.jl (2016-present)</i>
-<p><a href="https://github.com/jangevaare/PhyloTrees.jl">PhyloTrees.jl</a> provides a representation of rooted phylogenetic trees in Julia. My eventual goal is to implement Bayesian phylogenetic tree inference using MCMC in Julia, using this package. For the time being it has been used in the implementation of phylodynamic models as part of my PhD research.
+<p><a href="https://github.com/jangevaare/PhyloTrees.jl">PhyloTrees.jl</a> provides a representation of rooted phylogenetic trees in Julia. My eventual goal is to implement Bayesian phylogenetic tree inference using MCMC in Julia with this package. For the time being it has been used in the implementation of phylodynamic models as part of my PhD research.
 
 <img src="https://raw.githubusercontent.com/jangevaare/PhyloTrees.jl/master/treeplot.png" width="500"></p>
 <i>GeneticBitArrays.jl (2019-present)</i>
