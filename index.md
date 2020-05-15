@@ -23,12 +23,12 @@
 <details><summary>Articles</summary>
 <i>Preprints</i>
 <ul>
-<li><b>Angevaare, J.</b>, Feng, Z., Deardon, R. (2020) Infectious disease transmission network modelling with the Julia language. arXiv:<a href="https://arxiv.org/abs/2002.05850">2002.05850</a></li>
+<li><b>Angevaare, J.</b>, Feng, Z., Deardon, R. (2020) Pathogen.jl: Infectious disease transmission network modelling with the Julia language. arXiv:<a href="https://arxiv.org/abs/2002.05850">2002.05850</a></li>
 </ul>
 
 <i>Submitted</i>
 <ul>
-<li><b>Angevaare, J.</b>, Feng, Z., Deardon, R. (2020) Infectious disease transmission network modelling with the Julia language. Submitted to the Journal of Statistical Software</li>
+<li><b>Angevaare, J.</b>, Feng, Z., Deardon, R. (2020) Pathogen.jl: Infectious disease transmission network modelling with the Julia language. Submitted to the Journal of Statistical Software</li>
 <li><b>Angevaare, J.</b>, Feng, Z. and Deardon, R. (2020) Inference of latent event times and transmission networks in individual level infectious disease models. Submitted to Spatial and Spatiotemporal Epidemiology</li>
 </ul>
 </details>
