@@ -1,5 +1,5 @@
 <h2>About me</h2>
-<p>I am a PhD candidate in the Department of Mathematics and Statistics at the University of Guelph. I am advised by <a href="https://zfeng.uoguelph.ca">Prof. Zeny Feng</a> and <a href="http://people.ucalgary.ca/~robert.deardon/">Prof. Rob Deardon</a>.</p>
+<p>I am the Data Scientist at <a href="https://www.wdgpublichealth.ca">Wellington-Dufferin-Guelph Public Health</a>, and a PhD candidate in the Department of Mathematics and Statistics at the University of Guelph. My PhD research is advised by <a href="https://zfeng.uoguelph.ca">Prof. Zeny Feng</a> and <a href="http://people.ucalgary.ca/~robert.deardon/">Prof. Rob Deardon</a>.</p>
 <p>In my research I navigate the computational challenges in the statistical modelling of complex population processes. Applications in population ecology such as wildlife management and the dynamics of infectious diseases are of particular interest to me. This involves me in the study of topics in Bayesian inference, computational statistics, and data visualization. Much of my recent work has been implemented in open-source software packages.</p>
 
 <details><summary>Current software projects</summary>
