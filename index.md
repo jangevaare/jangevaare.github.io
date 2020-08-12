@@ -1,6 +1,6 @@
 <h2>About me</h2>
 <p>I am <a href="https://www.wdgpublichealth.ca">Wellington-Dufferin-Guelph Public Health</a>'s Data Scientist, and a PhD candidate in the Department of Mathematics and Statistics at the University of Guelph in Applied Statistics. My PhD research is advised by <a href="https://zfeng.uoguelph.ca">Prof. Zeny Feng</a> and <a href="http://people.ucalgary.ca/~robert.deardon/">Prof. Rob Deardon</a>.</p>
-<p>In my research I navigate the challenges in the statistical modelling of complex population processes. Applications in population ecology and infectious disease dynamics are of particular interest to me. This involves me in the study of topics in computational statistics, spatially correlated data, and individual and agent based models. Much of my recent work has been implemented in open-source software packages.</p>
+<p>In my research I navigate the challenges in the statistical modelling of complex population processes. Applications in population ecology and infectious disease dynamics are of particular interest to me. This involves me in the study of topics in computational statistics, spatiotemporal models, and individual and agent based models. Much of my recent work has been implemented in open-source software packages.</p>
 
 <details><summary>Current software projects</summary>
 <i>Pathogen.jl (2015-present)</i>
