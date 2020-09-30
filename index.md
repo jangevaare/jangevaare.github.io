@@ -1,6 +1,6 @@
 <h2>About me</h2>
-<p>I am a Data Scientist at <a href="https://www.wdgpublichealth.ca">Wellington-Dufferin-Guelph Public Health</a>, and a PhD candidate in the Department of Mathematics and Statistics at the University of Guelph (Applied Statistics). My PhD research is advised by <a href="https://zfeng.uoguelph.ca">Prof. Zeny Feng</a> and <a href="http://people.ucalgary.ca/~robert.deardon/">Prof. Rob Deardon</a>.</p>
-<p>In my research I navigate the challenges in the statistical modelling of complex population processes. Applications in population ecology and infectious disease dynamics are of particular interest to me. This involves me in the study of topics in computational statistics, spatiotemporal models, and individual and agent based models. Much of my recent work has been implemented in open-source software packages.</p>
+<p>I am a Data Scientist at <a href="https://www.wdgpublichealth.ca">Wellington-Dufferin-Guelph Public Health</a>, and a PhD graduand in the Department of Mathematics and Statistics at the University of Guelph (Applied Statistics). My PhD research has been advised by <a href="https://zfeng.uoguelph.ca">Prof. Zeny Feng</a> and <a href="http://people.ucalgary.ca/~robert.deardon/">Prof. Rob Deardon</a>.</p>
+<p>In my research I navigate the challenges in the statistical modelling of complex population processes. Applications in public health and population ecology are of particular interest to me. This involves me in the study of topics in computational statistics, spatiotemporal models, and individual and agent based models. Much of my recent work has been implemented in open-source software packages.</p>
 
 <details><summary>Current software projects</summary>
 <i>Pathogen.jl (2015-present)</i>
@@ -56,8 +56,12 @@
 <details><summary>Theses</summary>
 <p>
 <ul>
+<li><b>Angevaare, J.</b> (2020) Phylodynamic and Transmission Network Individual Level Infectious Disease Models. Department of Mathematics and Statistics, University of Guelph, Guelph, ON. Doctoral Thesis. Sept 2020. 140 pp. Advisors: <a href="https://zfeng.uoguelph.ca">Prof. Zeny Feng</a>, <a href="http://people.ucalgary.ca/~robert.deardon/">Prof. Rob Deardon</a>.
+</li>
+
 <li><b>Angevaare, J.</b> (2014) Efficient Bayesian Inference for Conditionally Autoregressive Models. Department of Mathematics and Statistics, University of Guelph, Guelph, ON. Master's Thesis. April 2014. 122 pp. Advisors: <a href="https://danielgillis.wordpress.com">Prof. Daniel Gillis</a>, <a href="https://mathstat.uoguelph.ca/people/darlington">Prof. Gerarda Darlington</a>.
-</li></ul>
+</li>
+</ul>
 </p></details>
 
 <details><summary>Technical documents</summary>
