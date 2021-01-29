@@ -24,7 +24,7 @@
 <details><summary>Articles</summary>
 <i>Published/Accepted</i>
 <ul>
-<li><a href="https://doi.org/10.1016/j.sste.2021.100410"><b>Angevaare, J.</b>, Feng, Z. and Deardon, R. (2021) Inference of latent event times and transmission networks in individual level infectious disease models. Accepted to <i>Spatial and Spatiotemporal Epidemiology</i></a></li>
+<li><b>Angevaare, J.</b>, Feng, Z. and Deardon, R. (2021) Inference of latent event times and transmission networks in individual level infectious disease models. To appear in Spatial and Spatiotemporal Epidemiology</a>. <a href="https://doi.org/10.1016/j.sste.2021.100410">10.1016/j.sste.2021.100410</a> | <a href="https://github.com/jangevaare/jangevaare.github.io/blob/master/TN-ILM%20SSTE%20preprint.pdf">preprint</a></li>
 </ul>
 <i>Preprints</i>
 <ul>
