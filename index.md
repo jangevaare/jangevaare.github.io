@@ -1,5 +1,5 @@
 <h2>About me</h2>
-<p>I am a Data Scientist at <a href="https://www.wdgpublichealth.ca">Wellington-Dufferin-Guelph Public Health</a>, and a PhD <a href="https://en.wiktionary.org/wiki/graduand#Noun">graduand</a> of the <a href="https://mathstat.uoguelph.ca">Department of Mathematics and Statistics</a> at the University of Guelph (Applied Statistics).
+<p>I am a Data Scientist at <a href="https://www.wdgpublichealth.ca">Wellington-Dufferin-Guelph Public Health</a>. I have a PhD in Applied Statistics from the University of Guelph.
   
 <p>In my research I navigate the challenges in the statistical modelling of complex population processes. Applications in public health and population ecology are of particular interest to me. This involves me in the study of topics in computational statistics, spatiotemporal models, and individual and agent based models. Much of my recent work has been implemented in open-source software packages.</p>
 
@@ -24,7 +24,7 @@
 <details><summary>Articles</summary>
 <i>Published/Accepted</i>
 <ul>
-<li><b>Angevaare, J.</b>, Feng, Z. and Deardon, R. (2021) Inference of latent event times and transmission networks in individual level infectious disease models. To appear in Spatial and Spatiotemporal Epidemiology</a>. <a href="https://doi.org/10.1016/j.sste.2021.100410">10.1016/j.sste.2021.100410</a> | <a href="https://github.com/jangevaare/jangevaare.github.io/blob/master/TN-ILM%20SSTE%20preprint.pdf">preprint</a></li>
+<li><b>Angevaare, J.</b>, Feng, Z. and Deardon, R. (2021) Inference of latent event times and transmission networks in individual level infectious disease models. Spatial and Spatiotemporal Epidemiology. <a href="https://doi.org/10.1016/j.sste.2021.100410">10.1016/j.sste.2021.100410</a> | <a href="https://github.com/jangevaare/jangevaare.github.io/blob/master/TN-ILM%20SSTE%20preprint.pdf">preprint version</a></li>
 </ul>
 <i>Preprints</i>
 <ul>
