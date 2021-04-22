@@ -1,5 +1,5 @@
 <h2>About me</h2>
-<p>I am a Data Scientist at <a href="https://www.wdgpublichealth.ca">Wellington-Dufferin-Guelph Public Health</a>. I have a PhD in Applied Statistics from the University of Guelph.
+<p>I am a Data Scientist at <a href="https://www.wdgpublichealth.ca">Wellington-Dufferin-Guelph Public Health</a>. I have an MSc (2014) and PhD (2020) in Applied Statistics from the University of Guelph.
   
 <p>In my research I navigate the challenges in the statistical modelling of complex population processes. Applications in public health and population ecology are of particular interest to me. This involves me in the study of topics in computational statistics, spatiotemporal models, and individual and agent based models. Much of my recent work has been implemented in open-source software packages.</p>
 
