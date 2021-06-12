@@ -123,3 +123,16 @@ I have a summary of these on my <a href="https://onbrewing.com/craftbeerpi-3-plu
 <img src="pcb1.png" width="250">
 <img src="pcb2.png" width="250">
 </p></details>
+
+
+<p>
+  <h3>Other profiles:</h3>
+  <ul>
+  <li><a href="https://arxiv.org/a/angevaare_j_1.html">arXiv</a></li>
+  <li><a href="https://github.com/jangevaare">Github</a></li>
+  <li><a href="https://www.linkedin.com/in/justinangevaare/">LinkedIn</a></li>
+  <li><a href="https://orcid.org/0000-0002-3373-5009">ORCID</a></li>
+  <li><a href="https://www.researchgate.net/profile/Justin-Angevaare-2">Research Gate</a></li>
+  <li><a href="https://www.semanticscholar.org/author/Justin-B.-J.-Angevaare/30491252">Semantic Scholar</a></li>
+</ul>
+</p>
