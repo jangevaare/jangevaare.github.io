@@ -25,15 +25,11 @@
 <i>Published/Accepted</i>
 <ul>
 <li><b>Angevaare, J.</b>, Feng, Z. and Deardon, R. (2021) Inference of latent event times and transmission networks in individual level infectious disease models. Spatial and Spatiotemporal Epidemiology. <a href="https://doi.org/10.1016/j.sste.2021.100410">10.1016/j.sste.2021.100410</a> | <a href="https://github.com/jangevaare/jangevaare.github.io/blob/master/TN-ILM%20SSTE%20preprint.pdf">preprint version</a></li>
+<li><b>Angevaare, J.</b>, Feng, Z., Deardon, R. (2022) Pathogen.jl: Infectious disease transmission network modelling with Julia. To appear in the Journal of Statistical Software.</li>
 </ul>
 <i>Preprints</i>
 <ul>
 <li><b>Angevaare, J.</b>, Feng, Z., Deardon, R. (2020) Pathogen.jl: Infectious disease transmission network modelling with the Julia language. arXiv:<a href="https://arxiv.org/abs/2002.05850">2002.05850</a></li>
-</ul>
-
-<i>Submitted</i>
-<ul>
-<li><b>Angevaare, J.</b>, Feng, Z., Deardon, R. (2020) Pathogen.jl: Infectious disease transmission network modelling with the Julia language. Submitted to the Journal of Statistical Software</li>
 </ul>
 </details>
 
