@@ -91,7 +91,7 @@
 
 <details><summary>Just for fun</summary>
 <i>brew2 (2018-2022)</i>
-<p><a href="https://github.com/jangevaare/brew2">brew2</a> is an app built in <a href="https://nodered.org">Node-RED</a> for brewery control using <a href="https://www.raspberrypi.org">Raspberry Pi</a>. It implements sophisticated PID algorithms for mash temperature control using various recirculating mash systems. Its more custom features are written in javascript. Logging uses <a href="https://www.influxdata.com">influxdb</a> time series database. I have a couple posts on my brewing blog related to this work <a href="https://onbrewing.com/brewing-with-node-red-pt-1/">here</a>, and <a href="https://onbrewing.com/brewing-with-node-red-pt-2-my-dashboard/">here</a>.
+<p><a href="https://github.com/jangevaare/brew2">brew2</a> is an app built in <a href="https://nodered.org">Node-RED</a> for brewery control using <a href="https://www.raspberrypi.org">Raspberry Pi</a>. It implements sophisticated PID algorithms for mash temperature control using various recirculating mash systems. Its more custom features are written in javascript. Logging uses <a href="https://www.influxdata.com">influxdb</a> time series database.
 <br>
 <img src="https://github.com/jangevaare/brew2/raw/master/main.png" width="500">
 </p>
@@ -101,13 +101,12 @@
 <li><a href="https://github.com/jangevaare/cbpi-DependentActor">DependentActor</a></li>
 <li><a href="https://github.com/jangevaare/cbpi-OneWireAdvanced">OneWireAdvanced</a></li>
 <li><a href="https://github.com/jangevaare/cbpi-OnAtStartup">OnAtStartup</a></li></ul>
-I have a summary of these on my <a href="https://onbrewing.com/craftbeerpi-3-plugins/">brewing blog</a>.
 </p>
 <i>HopScrape (2018)</i>
 <p><a href="https://github.com/jangevaare/HopScrape">This project</a> incorporated scraping, and imputation of hop data using <a href="https://www.crummy.com/software/BeautifulSoup/">BeautifulSoup</a>, <a href="https://pandas.pydata.org">pandas</a>, and <a href="https://pypi.org/project/fancyimpute/">fancyimpute</a>. The cleaned and imputed data resulting from this project are available on the repo.
 </p>
 <i>TriangleDash (2018)</i>
-<p><a href="https://github.com/jangevaare/triangledash">TriangleDash</a> is a small application I made to learn <a href="https://plotly.com/dash/">Plotly&#39;s Dash</a>. It is an explanation, calculation, and visualization of results from triangle test sensory analysis. It&#39;s deployed on heroku and can be used <a href="https://triangledash.herokuapp.com">here</a>.
+<p><a href="https://github.com/jangevaare/triangledash">TriangleDash</a> is a small application I made to learn <a href="https://plotly.com/dash/">Plotly&#39;s Dash</a>. It is an explanation, calculation, and visualization of results from triangle test sensory analysis.
 </p>
 <i>Homebrewing PCBs (2018-Current)</i>
 <p>I learned a bit about PCB design and electronics, then created a couple board designs for homebrewing applications using Raspberry Pi and ESP8266 IoT devices <a href="https://github.com/jangevaare/Homebrewing-PCBs">and open-sourced them</a>. They can also be purchased from PCBS.io<sup><a href="https://PCBs.io/share/4QvpO">1</a>, <a href="https://PCBs.io/share/zk7Px">2</a></sup> and PCBWay.com<sup><a href="https://www.pcbway.com/project/shareproject/ESP8266_Homebrew_v0_1_3.html">1</a>, <a href="https://www.pcbway.com/project/shareproject/Raspberry_Pi_Homebrew_board_v0_2_2.html">2</a></sup>. 100s of these boards have now been produced.
