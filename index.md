@@ -108,8 +108,8 @@
 <i>TriangleDash (2018)</i>
 <p><a href="https://github.com/jangevaare/triangledash">TriangleDash</a> is a small application I made to learn <a href="https://plotly.com/dash/">Plotly&#39;s Dash</a>. It is an explanation, calculation, and visualization of results from triangle test sensory analysis.
 </p>
-<i>Homebrewing PCBs (2018-Current)</i>
-<p>I learned a bit about PCB design and electronics, then created a couple board designs for homebrewing applications using Raspberry Pi and ESP8266 IoT devices <a href="https://github.com/jangevaare/Homebrewing-PCBs">and open-sourced them</a>. They can also be purchased from PCBS.io<sup><a href="https://PCBs.io/share/4QvpO">1</a>, <a href="https://PCBs.io/share/zk7Px">2</a></sup> and PCBWay.com<sup><a href="https://www.pcbway.com/project/shareproject/ESP8266_Homebrew_v0_1_3.html">1</a>, <a href="https://www.pcbway.com/project/shareproject/Raspberry_Pi_Homebrew_board_v0_2_2.html">2</a></sup>. 100s of these boards have now been produced.
+<i>Homebrewing PCBs (2018-2020)</i>
+<p>I learned a bit about PCB design and electronics, then created a couple board designs for homebrewing applications using Raspberry Pi and ESP8266 IoT devices <a href="https://github.com/jangevaare/Homebrewing-PCBs">and open-sourced them</a>. They can also be purchased from PCBWay.com<sup><a href="https://www.pcbway.com/project/shareproject/ESP8266_Homebrew_v0_1_3.html">1</a>, <a href="https://www.pcbway.com/project/shareproject/Raspberry_Pi_Homebrew_board_v0_2_2.html">2</a></sup>. 100s of these boards have now been produced.
 <br>
 <img src="pcb1.png" width="250">
 <img src="pcb2.png" width="250">
