@@ -52,7 +52,7 @@
 <details><summary>Theses</summary>
 <p>
 <ul>
-<li><b>Angevaare, J.</b> (2020) <a href="https://atrium.lib.uoguelph.ca/xmlui/handle/10214/21323">Phylodynamic and Transmission Network Individual Level Infectious Disease Models</a>. Department of Mathematics and Statistics, University of Guelph, Guelph, ON. Doctoral Thesis. Sept 2020. 141 pp. Advisors: <a href="https://zfeng.uoguelph.ca">Prof. Zeny Feng</a>, <a href="http://people.ucalgary.ca/~robert.deardon/">Prof. Rob Deardon</a>.
+<li><b>Angevaare, J.</b> (2020) <a href="https://atrium.lib.uoguelph.ca/xmlui/handle/10214/21323">Phylodynamic and Transmission Network Individual Level Infectious Disease Models</a>. Department of Mathematics and Statistics, University of Guelph, Guelph, ON. Doctoral Thesis. Sept 2020. 141 pp. Advisors: <a href="https://zfeng.uoguelph.ca">Prof. Zeny Feng</a>, <a href="https://robdeardon.github.io">Prof. Rob Deardon</a>.
 </li>
 
 <li><b>Angevaare, J.</b> (2014) Efficient Bayesian Inference for Conditionally Autoregressive Models. Department of Mathematics and Statistics, University of Guelph, Guelph, ON. Master's Thesis. April 2014. 122 pp. Advisors: <a href="https://danielgillis.wordpress.com">Prof. Daniel Gillis</a>, <a href="https://mathstat.uoguelph.ca/people/darlington">Prof. Gerarda Darlington</a>.
